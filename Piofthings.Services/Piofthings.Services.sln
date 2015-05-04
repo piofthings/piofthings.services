@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piofthings.Services", "Piof
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piofthings.Data", "..\Piofthings.Data\Piofthings.Data.csproj", "{B6704F30-BADF-4D89-92CF-75AC414DB246}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piofthings.Client", "Piofthings.Client\Piofthings.Client.csproj", "{BD21FAAE-E62B-4E58-86DC-FF9C6CCC3C88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B6704F30-BADF-4D89-92CF-75AC414DB246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6704F30-BADF-4D89-92CF-75AC414DB246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6704F30-BADF-4D89-92CF-75AC414DB246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD21FAAE-E62B-4E58-86DC-FF9C6CCC3C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD21FAAE-E62B-4E58-86DC-FF9C6CCC3C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD21FAAE-E62B-4E58-86DC-FF9C6CCC3C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD21FAAE-E62B-4E58-86DC-FF9C6CCC3C88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
